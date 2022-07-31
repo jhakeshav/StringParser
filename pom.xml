@@ -106,7 +106,7 @@
 
                         <manifest>
 
-                            <mainClass>com.test.TextToXMLMain</mainClass>
+                            <mainClass>com.test.TextToXMLAndCSVMain</mainClass>
 
                         </manifest>
 
